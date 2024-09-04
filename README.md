@@ -26,7 +26,7 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 pip install pybbn
 ```
 ## Creating BNN:
-```
+```python
 from google.colab import drive
 drive.mount('/content/drive')
 import pandas as pd # for data manipulation
